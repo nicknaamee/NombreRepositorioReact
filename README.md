@@ -1,2 +1,17 @@
-# NombreRepositorioReact
-Reformula de NombreRepositorio, pero ahora en react
+# NombreRepositorio
+Descripcion
+
+# Nombres Integrantes
+
+```
+Paola Fuentes
+Leandro Araya
+Nicolas Poblete
+```
+
+## Pruebas Unitarias automatizadas
+
+```bash
+npm ci
+npm run test:dom
+```
