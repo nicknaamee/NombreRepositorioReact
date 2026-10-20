@@ -1,7 +1,7 @@
 # NombreRepositorio
 Descripcion
 
-# NombreIntegrantes
+# Nombres Integrantes
 
 ```
 Paola Fuentes
@@ -9,7 +9,7 @@ Leandro Araya
 Nicolas Poblete
 ```
 
-## Pruebas automatizadas
+## Pruebas Unitarias automatizadas
 
 ```bash
 npm ci
